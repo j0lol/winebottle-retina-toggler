@@ -13,3 +13,7 @@ Options:
   -w, --write-to-test    
   -h, --help             Print help
 ```
+
+## I have no idea what this is how do I download it.
+
+You are in a Rust project. To run it, build and run the program with [cargo](https://rustup.rs). Alternatively, I might have published a build in the [Releases section](https://github.com/j0lol/winebottle-retina-toggler/releases/latest). You will probably have to unzip and clear the quarantine flag: `xattr -c ./file`.
